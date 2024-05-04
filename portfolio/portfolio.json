@@ -29,6 +29,17 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/jagisx/data@4c4e7485e2ac0fb618521fd8ac3b0e61950f3196/portfolio/images/pexels-photo-18516678.jpeg",
+			"name": "Pexels photo 18516678",
+			"@type": "Painting"
+		},
+		{
+			"@type": "Painting"
+		},
+		{
+			"@type": "Painting"
 		}
 	]
 }
